@@ -2,5 +2,5 @@
 env.component = "cart"
 env.app_lang = "nodejs"
 env.dependencyCheck = "false"
-sonarQubecheck == "false"
+env.sonarQubecheck == "false"
 ci()
